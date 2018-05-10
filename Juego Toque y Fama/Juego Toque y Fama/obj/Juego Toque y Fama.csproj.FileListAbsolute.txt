@@ -1,0 +1,26 @@
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\bin\Debug\Juego Toque y Fama.exe
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\bin\Debug\Juego Toque y Fama.pdb
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Form1.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Properties.Resources.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego Toque y Fama.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego Toque y Fama.exe
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego Toque y Fama.pdb
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.AboutBox1.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Form2.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Form3.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Form4.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Debug\Juego_Toque_y_Fama.Form6.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\bin\Release\Juego Toque y Fama.exe
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\bin\Release\Juego Toque y Fama.pdb
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.AboutBox1.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Form1.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Form2.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Form3.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Form4.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Form6.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego_Toque_y_Fama.Properties.Resources.resources
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego Toque y Fama.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego Toque y Fama.exe
+C:\Documents and Settings\Kenneth\Escritorio\Juego Toque y Fama\Juego Toque y Fama\obj\Release\Juego Toque y Fama.pdb
